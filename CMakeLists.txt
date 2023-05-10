@@ -34,6 +34,13 @@ add_compile_options(
   $<$<BOOL:MSVC>:/Zc:__cplusplus>
 )
 
+if(PROJECT_IS_TOP_LEVEL)
+  set(TESTING TRUE)
+endif()
+
+if(TESTING)
+  include(ConfigureAndIncludeCatch2)
+endif()
 include(ConfigureAndIncludeDetours)
 include(ConfigureAndIncludeFmt)
 include(ConfigureAndIncludeRED4extSdk)
@@ -43,3 +50,6 @@ include(ConfigureAndIncludeTslOrderedMap)
 include(ConfigureAndIncludeWil)
 
 add_subdirectory(src)
+if(TESTING)
+  add_subdirectory(tests)
+endif()

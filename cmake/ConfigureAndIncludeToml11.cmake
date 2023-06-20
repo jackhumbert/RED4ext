@@ -1,4 +1,4 @@
-add_subdirectory(deps/toml11)
+add_subdirectory(deps/toml11 EXCLUDE_FROM_ALL)
 
 mark_as_advanced(
   CMAKE_CXX_EXTENSIONS

@@ -1,0 +1,1184 @@
+[
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\creatwth.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\creatwth.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\creatwth.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\creatwth.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\detours.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\detours.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\detours.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\detours.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disasm.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disasm.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disasm.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disasm.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disolarm.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disolarm.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disolarm64.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disolarm64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm64.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolia64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disolia64.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disolia64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolia64.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disolx64.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disolx64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx64.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx86.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\disolx86.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\disolx86.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx86.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\image.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\image.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\image.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\image.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\modules.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\detours\\src\\modules.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\detours\\src\\modules.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\modules.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\catch_chronometer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\catch_chronometer.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\catch_chronometer.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\catch_chronometer.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_benchmark_function.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_benchmark_function.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_benchmark_function.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_benchmark_function.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_run_for_at_least.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_run_for_at_least.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_run_for_at_least.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_run_for_at_least.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_stats.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_stats.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\benchmark\\detail\\catch_stats.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\benchmark\\detail\\catch_stats.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generator_exception.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generator_exception.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generator_exception.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generator_exception.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generators.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generators.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generators.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generators.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generators_random.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generators_random.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\generators\\catch_generators_random.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\generators\\catch_generators_random.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_automake.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_automake.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_automake.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_automake.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_common_base.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_common_base.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_common_base.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_common_base.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_compact.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_compact.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_compact.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_compact.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_console.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_console.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_console.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_console.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_cumulative_base.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_cumulative_base.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_cumulative_base.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_event_listener.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_event_listener.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_event_listener.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_event_listener.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_helpers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_helpers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_helpers.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_helpers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_junit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_junit.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_junit.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_junit.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_multi.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_multi.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_multi.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_multi.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_registrars.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_registrars.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_registrars.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_registrars.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_sonarqube.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_sonarqube.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_sonarqube.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_streaming_base.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_streaming_base.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_streaming_base.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_tap.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_tap.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_tap.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_tap.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_teamcity.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_teamcity.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_teamcity.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_xml.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_xml.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\reporters\\catch_reporter_xml.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\reporters\\catch_reporter_xml.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_capture.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_capture.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_capture.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_capture.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_config.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_config.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_config.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_config.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_exception.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_exception.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_exception.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_exception.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_generatortracker.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_registry_hub.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_registry_hub.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_registry_hub.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_registry_hub.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_reporter.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter_factory.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_reporter_factory.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_reporter_factory.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_reporter_factory.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_testcase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_testcase.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\interfaces\\catch_interfaces_testcase.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\interfaces\\catch_interfaces_testcase.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_approx.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_approx.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_approx.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_approx.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_assertion_result.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_assertion_result.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_assertion_result.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_assertion_result.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_config.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_config.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_config.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_config.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_get_random_seed.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_get_random_seed.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_get_random_seed.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_get_random_seed.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_message.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_message.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_message.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_message.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_registry_hub.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_registry_hub.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_registry_hub.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_registry_hub.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_session.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_session.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_session.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_session.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_tag_alias_autoregistrar.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_tag_alias_autoregistrar.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_tag_alias_autoregistrar.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_tag_alias_autoregistrar.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_case_info.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_test_case_info.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_test_case_info.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_case_info.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_spec.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_test_spec.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_test_spec.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_test_spec.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_timer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_timer.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_timer.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_timer.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_tostring.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_tostring.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_tostring.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_tostring.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_totals.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_totals.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_totals.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_totals.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_translate_exception.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_translate_exception.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_translate_exception.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_translate_exception.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_version.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_version.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\catch_version.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\catch_version.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_assertion_handler.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_assertion_handler.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_assertion_handler.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_assertion_handler.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_case_insensitive_comparisons.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_case_insensitive_comparisons.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_case_insensitive_comparisons.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_case_insensitive_comparisons.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_clara.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_clara.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_clara.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_clara.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_commandline.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_commandline.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_commandline.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_commandline.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_console_colour.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_console_colour.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_console_colour.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_console_colour.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_context.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_context.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_context.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_context.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debug_console.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_debug_console.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_debug_console.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debug_console.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debugger.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_debugger.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_debugger.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_debugger.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_decomposer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_decomposer.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_decomposer.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_decomposer.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enforce.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_enforce.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_enforce.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enforce.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enum_values_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_enum_values_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_enum_values_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_enum_values_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_errno_guard.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_errno_guard.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_errno_guard.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_errno_guard.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_exception_translator_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_exception_translator_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_exception_translator_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_exception_translator_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_fatal_condition_handler.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_fatal_condition_handler.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_fatal_condition_handler.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_floating_point_helpers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_floating_point_helpers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_floating_point_helpers.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_floating_point_helpers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_getenv.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_getenv.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_getenv.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_getenv.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_istream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_istream.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_istream.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_istream.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_lazy_expr.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_lazy_expr.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_lazy_expr.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_lazy_expr.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_leak_detector.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_leak_detector.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_leak_detector.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_leak_detector.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_list.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_list.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_list.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_list.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_message_info.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_message_info.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_message_info.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_message_info.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_output_redirect.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_output_redirect.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_output_redirect.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_output_redirect.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_parse_numbers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_parse_numbers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_parse_numbers.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_parse_numbers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_polyfills.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_polyfills.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_polyfills.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_polyfills.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_number_generator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_random_number_generator.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_random_number_generator.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_number_generator.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_seed_generation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_random_seed_generation.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_random_seed_generation.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_random_seed_generation.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reporter_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reporter_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_spec_parser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reporter_spec_parser.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reporter_spec_parser.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reporter_spec_parser.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_result_type.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_result_type.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_result_type.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_result_type.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reusable_string_stream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reusable_string_stream.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_reusable_string_stream.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_reusable_string_stream.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_run_context.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_run_context.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_run_context.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_run_context.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_section.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_section.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_section.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_section.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_singletons.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_singletons.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_singletons.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_singletons.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_source_line_info.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_source_line_info.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_source_line_info.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_source_line_info.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_startup_exception_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_startup_exception_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_startup_exception_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_startup_exception_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stdstreams.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_stdstreams.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_stdstreams.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stdstreams.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_string_manip.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_string_manip.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_string_manip.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_string_manip.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stringref.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_stringref.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_stringref.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_stringref.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_tag_alias_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_tag_alias_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_tag_alias_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_tag_alias_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_info_hasher.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_info_hasher.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_info_hasher.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_info_hasher.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_registry_impl.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_registry_impl.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_registry_impl.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_tracker.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_tracker.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_case_tracker.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_case_tracker.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_failure_exception.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_failure_exception.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_failure_exception.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_failure_exception.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_registry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_registry.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_registry.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_registry.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_spec_parser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_spec_parser.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_test_spec_parser.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_test_spec_parser.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_textflow.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_textflow.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_textflow.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_textflow.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_uncaught_exceptions.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_uncaught_exceptions.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_uncaught_exceptions.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_uncaught_exceptions.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_wildcard_pattern.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_wildcard_pattern.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_wildcard_pattern.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_wildcard_pattern.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_xmlwriter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_xmlwriter.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_xmlwriter.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\internal\\catch_xmlwriter.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_container_properties.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_container_properties.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_container_properties.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_container_properties.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_exception.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_exception.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_exception.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_exception.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_floating_point.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_floating_point.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_floating_point.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_floating_point.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_predicate.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_predicate.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_predicate.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_predicate.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_quantifiers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_quantifiers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_quantifiers.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_quantifiers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_string.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_string.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_string.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_string.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_templated.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_templated.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\catch_matchers_templated.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\catch_matchers_templated.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\internal\\catch_matchers_impl.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\internal\\catch_matchers_impl.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\matchers\\internal\\catch_matchers_impl.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2.dir\\catch2\\matchers\\internal\\catch_matchers_impl.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\catch2\\src\\CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_main.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\internal\\catch_main.cpp",
+  "output": "deps\\catch2\\src\\CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\fmt\\src\\format.cc",
+  "file": "D:\\Code\\RED4ext\\deps\\fmt\\src\\format.cc",
+  "output": "deps\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\fmt\\src\\os.cc",
+  "file": "D:\\Code\\RED4ext\\deps\\fmt\\src\\os.cc",
+  "output": "deps\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\cmake_pch.cxx",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Api\\v0\\FileVer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Api\\v0\\FileVer.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Api\\v0\\FileVer.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Api\\v0\\FileVer.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Api\\v0\\SemVer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Api\\v0\\SemVer.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Api\\v0\\SemVer.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Api\\v0\\SemVer.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CName.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CName.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CName.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CName.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CNamePool.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CNamePool.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CNamePool.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CNamePool.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CString.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CString.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\CString.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\CString.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Dump\\Reflection.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Dump\\Reflection.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Dump\\Reflection.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Dump\\Reflection.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\GameEngine.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\GameEngine.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\GameEngine.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\GameEngine.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Hashing\\Murmur3.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Hashing\\Murmur3.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Hashing\\Murmur3.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Hashing\\Murmur3.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\IO\\BaseStream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\IO\\BaseStream.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\IO\\BaseStream.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\IO\\BaseStream.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\IO\\MemoryStream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\IO\\MemoryStream.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\IO\\MemoryStream.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\IO\\MemoryStream.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ISerializable.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ISerializable.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ISerializable.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ISerializable.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\JobQueue.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\JobQueue.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\JobQueue.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\JobQueue.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Memory\\Vault.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Memory\\Vault.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Memory\\Vault.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Memory\\Vault.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\NativeTypes.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\NativeTypes.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\NativeTypes.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\NativeTypes.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\RTTISystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\RTTISystem.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\RTTISystem.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\RTTISystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\RTTITypes.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\RTTITypes.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\RTTITypes.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\RTTITypes.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ResourceDepot.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ResourceDepot.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ResourceDepot.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ResourceDepot.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ResourceLoader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ResourceLoader.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\ResourceLoader.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\ResourceLoader.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\CProperty.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\CProperty.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\CProperty.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\CProperty.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Functions.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Functions.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Functions.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Functions.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\IScriptable.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\IScriptable.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\IScriptable.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\IScriptable.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\GameTime.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\GameTime.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\GameTime.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\GameTime.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\IUpdatableSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\IUpdatableSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\IUpdatableSystem.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\IUpdatableSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\ScriptGameInstance.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\ScriptGameInstance.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\ScriptGameInstance.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\ScriptGameInstance.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\gameIGameSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\gameIGameSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\gameIGameSystem.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\gameIGameSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\gamePersistentState.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\gamePersistentState.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\gamePersistentState.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\gamePersistentState.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\redTagList.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\redTagList.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Natives\\redTagList.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Natives\\redTagList.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\OpcodeHandlers.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\OpcodeHandlers.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\OpcodeHandlers.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\OpcodeHandlers.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Stack.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Stack.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Stack.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Stack.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Utils.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Utils.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\Scripting\\Utils.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\Scripting\\Utils.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SharedMutex.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SharedMutex.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SharedMutex.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SharedMutex.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SpinLock.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SpinLock.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SpinLock.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SpinLock.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SystemUpdate.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SystemUpdate.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\SystemUpdate.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\SystemUpdate.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/red4ext.sdk/CMakeFiles/RED4ext.SDK.dir/cmake_pch.hxx /Fodeps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\TweakDB.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\TweakDB.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\red4ext.sdk\\src\\TweakDB.cpp",
+  "output": "deps\\red4ext.sdk\\CMakeFiles\\RED4ext.SDK.dir\\src\\TweakDB.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\deps\\spdlog\\CMakeFiles\\spdlog.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\deps\\spdlog\\CMakeFiles\\spdlog.dir\\cmake_pch.cxx",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\spdlog.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\spdlog.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\stdout_sinks.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\stdout_sinks.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\color_sinks.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\color_sinks.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\file_sinks.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\file_sinks.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\async.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\async.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zc:__cplusplus /MP /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/deps/spdlog/CMakeFiles/spdlog.dir/cmake_pch.hxx /Fodeps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\deps\\spdlog\\src\\cfg.cpp",
+  "file": "D:\\Code\\RED4ext\\deps\\spdlog\\src\\cfg.cpp",
+  "output": "deps\\spdlog\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\cmake_pch.cxx",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\App.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\App.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\App.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\App.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Config.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Config.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Config.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Config.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\DetourTransaction.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\DetourTransaction.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\DetourTransaction.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\DetourTransaction.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\DevConsole.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\DevConsole.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\DevConsole.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\DevConsole.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\CGameApplication.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Hooks\\CGameApplication.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Hooks\\CGameApplication.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\CGameApplication.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\ExecuteProcess.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Hooks\\ExecuteProcess.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Hooks\\ExecuteProcess.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\ExecuteProcess.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\InitScripts.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Hooks\\InitScripts.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Hooks\\InitScripts.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\InitScripts.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\LoadScripts.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Hooks\\LoadScripts.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Hooks\\LoadScripts.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\LoadScripts.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\Main_Hooks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Hooks\\Main_Hooks.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Hooks\\Main_Hooks.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Hooks\\Main_Hooks.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Image.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Image.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Image.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Image.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Main.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Main.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Main.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\MemoryProtection.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\MemoryProtection.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\MemoryProtection.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\MemoryProtection.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Paths.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Paths.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Paths.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Paths.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\PluginBase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\PluginBase.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\PluginBase.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\PluginBase.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\BaseInitializationState.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\States\\BaseInitializationState.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\States\\BaseInitializationState.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\BaseInitializationState.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\InitializationState.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\States\\InitializationState.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\States\\InitializationState.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\InitializationState.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\RunningState.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\States\\RunningState.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\States\\RunningState.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\RunningState.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\ShutdownState.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\States\\ShutdownState.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\States\\ShutdownState.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\States\\ShutdownState.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\HookingSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Systems\\HookingSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Systems\\HookingSystem.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\HookingSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\LoggerSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Systems\\LoggerSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Systems\\LoggerSystem.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\LoggerSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\PluginSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Systems\\PluginSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Systems\\PluginSystem.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\PluginSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\ScriptCompilationSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Systems\\ScriptCompilationSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Systems\\ScriptCompilationSystem.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\ScriptCompilationSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\StateSystem.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Systems\\StateSystem.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Systems\\StateSystem.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Systems\\StateSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Utils.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\Utils.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Utils.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Utils.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Funcs.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\v0\\Funcs.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\v0\\Funcs.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Funcs.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Logger.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\v0\\Logger.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\v0\\Logger.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Logger.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/dll/CMakeFiles/RED4ext.Dll.dir/cmake_pch.hxx /Fosrc\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Plugin.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\dll\\v0\\Plugin.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\v0\\Plugin.cpp",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\v0\\Plugin.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -I D:\\Code\\RED4ext\\src\\dll -I D:\\Code\\RED4ext\\deps\\detours\\src -I D:\\Code\\RED4ext\\deps\\fmt\\include -I D:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -I D:\\Code\\RED4ext\\deps\\spdlog\\include -I D:\\Code\\RED4ext\\deps\\toml11 -I D:\\Code\\RED4ext\\deps\\ordered-map\\include -I D:\\Code\\RED4ext\\deps\\wil\\include -DWIN32 -D_DEBUG /fo src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Resource.rc.res D:\\Code\\RED4ext\\src\\dll\\Resource.rc",
+  "file": "D:\\Code\\RED4ext\\src\\dll\\Resource.rc",
+  "output": "src\\dll\\CMakeFiles\\RED4ext.Dll.dir\\Resource.rc.res"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DRED4ext_Loader_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\loader -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /Fosrc\\loader\\CMakeFiles\\RED4ext.Loader.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\cmake_pch.cxx",
+  "output": "src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DRED4ext_Loader_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\loader -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /Fosrc\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\loader\\Main.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\loader\\Main.cpp",
+  "output": "src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Main.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DRED4ext_Loader_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\loader -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /Fosrc\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Proxies\\winmm.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\loader\\Proxies\\winmm.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\loader\\Proxies\\winmm.cpp",
+  "output": "src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Proxies\\winmm.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DRED4ext_Loader_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\loader -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/loader/CMakeFiles/RED4ext.Loader.dir/cmake_pch.hxx /Fosrc\\loader\\CMakeFiles\\RED4ext.Loader.dir\\stdafx.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\loader\\stdafx.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\loader\\stdafx.cpp",
+  "output": "src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\stdafx.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe -DFMT_LOCALE -DRED4ext_Loader_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -I D:\\Code\\RED4ext\\src\\loader -I D:\\Code\\RED4ext\\deps\\fmt\\include -I D:\\Code\\RED4ext\\deps\\wil\\include -DWIN32 -D_DEBUG /fo src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Resource.rc.res D:\\Code\\RED4ext\\src\\loader\\Resource.rc",
+  "file": "D:\\Code\\RED4ext\\src\\loader\\Resource.rc",
+  "output": "src\\loader\\CMakeFiles\\RED4ext.Loader.dir\\Resource.rc.res"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DRED4ext_Playground_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\playground -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/cmake_pch.hxx /Fosrc\\playground\\CMakeFiles\\RED4ext.Playground.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\src\\playground\\CMakeFiles\\RED4ext.Playground.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\src\\playground\\CMakeFiles\\RED4ext.Playground.dir\\cmake_pch.cxx",
+  "output": "src\\playground\\CMakeFiles\\RED4ext.Playground.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DRED4EXT_STATIC_LIB -DRED4ext_Playground_EXPORTS -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\playground -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/src/playground/CMakeFiles/RED4ext.Playground.dir/cmake_pch.hxx /Fosrc\\playground\\CMakeFiles\\RED4ext.Playground.dir\\Main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\src\\playground\\Main.cpp",
+  "file": "D:\\Code\\RED4ext\\src\\playground\\Main.cpp",
+  "output": "src\\playground\\CMakeFiles\\RED4ext.Playground.dir\\Main.cpp.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/cmake_pch.hxx /Fotests\\CMakeFiles\\Tests.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\build\\tests\\CMakeFiles\\Tests.dir\\cmake_pch.cxx",
+  "file": "D:\\Code\\RED4ext\\build\\tests\\CMakeFiles\\Tests.dir\\cmake_pch.cxx",
+  "output": "tests\\CMakeFiles\\Tests.dir\\cmake_pch.cxx.obj"
+},
+{
+  "directory": "D:/Code/RED4ext/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_LOCALE -DNOMINMAX -DRED4EXT_STATIC_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_DISABLE_DEFAULT_LOGGER -DSPDLOG_FMT_EXTERNAL -DSPDLOG_NO_THREAD_ID -DSPDLOG_WCHAR_FILENAMES -DSPDLOG_WCHAR_TO_UTF8_SUPPORT -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\RED4ext\\src\\dll -ID:\\Code\\RED4ext\\deps\\detours\\src -ID:\\Code\\RED4ext\\deps\\fmt\\include -ID:\\Code\\RED4ext\\deps\\red4ext.sdk\\include -ID:\\Code\\RED4ext\\deps\\spdlog\\include -ID:\\Code\\RED4ext\\deps\\toml11 -ID:\\Code\\RED4ext\\deps\\ordered-map\\include -ID:\\Code\\RED4ext\\deps\\wil\\include -ID:\\Code\\RED4ext\\deps\\catch2\\src\\catch2\\.. -ID:\\Code\\RED4ext\\build\\deps\\catch2\\generated-includes /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/cmake_pch.hxx /FpD:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/./cmake_pch.cxx.pch /FID:/Code/RED4ext/build/tests/CMakeFiles/Tests.dir/cmake_pch.hxx /Fotests\\CMakeFiles\\Tests.dir\\Test.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\RED4ext\\tests\\Test.cpp",
+  "file": "D:\\Code\\RED4ext\\tests\\Test.cpp",
+  "output": "tests\\CMakeFiles\\Tests.dir\\Test.cpp.obj"
+}
+]

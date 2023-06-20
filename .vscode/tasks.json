@@ -1,0 +1,16 @@
+{
+"tasks":
+[
+    {
+        "label": "Build",
+        "command": "${command:cmake.build}",
+        "group": "build",
+        "problemMatcher": [],
+    },
+    {
+        "label": "Install",
+        "command": "${command:cmake.install}",
+        "problemMatcher": [],
+    }
+],
+}

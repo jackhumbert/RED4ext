@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "window.title": "RED4ext",
+        "cmake.generator": ""
+    }
+}

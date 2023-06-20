@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.23)
 
+set(CYBERPUNK_GAME_DIR "C:/Program Files (x86)/Steam/steamapps/common/Cyberpunk 2077" CACHE PATH "The location of your Cyberpunk 2077 installation")
+
 project(RED4ext LANGUAGES CXX)
 
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")

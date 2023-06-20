@@ -27,3 +27,6 @@ target_link_libraries(RED4ext.Dll
     tsl::ordered_map
     WIL
 )
+
+install(FILES $<TARGET_FILE:RED4ext.Dll> DESTINATION "${CYBERPUNK_GAME_DIR}/red4ext/")
+install(FILES $<TARGET_PDB_FILE:RED4ext.Dll> DESTINATION "${CYBERPUNK_GAME_DIR}/red4ext/" OPTIONAL)

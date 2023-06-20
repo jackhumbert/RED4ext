@@ -80,6 +80,9 @@ App::App()
 
     auto patch = Utils::FileVerToPatch(fileVer);
     spdlog::info(L"Game patch: {}", patch);
+    
+    auto ptr = GetModuleHandle(nullptr);
+    spdlog::info("Base address: {}", fmt::ptr(ptr));
 
     const auto& productVer = image->GetProductVersion();
     spdlog::info("Product version: {}.{}{}", productVer.major, productVer.minor, productVer.patch);

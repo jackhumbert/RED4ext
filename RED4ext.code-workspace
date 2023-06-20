@@ -6,6 +6,6 @@
     ],
     "settings": {
         "window.title": "RED4ext",
-        "cmake.generator": ""
+        "cmake.generator": "Ninja"
     }
 }

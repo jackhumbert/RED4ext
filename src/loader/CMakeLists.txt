@@ -15,3 +15,6 @@ target_sources(RED4ext.Loader PRIVATE ${HEADER_FILES} ${SOURCE_FILES} ${DEF_FILE
 
 target_precompile_headers(RED4ext.Loader PRIVATE stdafx.hpp)
 target_link_libraries(RED4ext.Loader PRIVATE fmt WIL)
+
+install(FILES $<TARGET_FILE:RED4ext.Loader> DESTINATION "${CYBERPUNK_GAME_DIR}/bin/x64/")
+install(FILES $<TARGET_PDB_FILE:RED4ext.Loader> DESTINATION "${CYBERPUNK_GAME_DIR}/bin/x64/" OPTIONAL)
